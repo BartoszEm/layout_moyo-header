@@ -15,7 +15,6 @@ body {
 }
 
 .container {
-  height: 60px;
   display: flex;
   align-items: center;
   max-width: 1200px;
@@ -40,6 +39,7 @@ body {
   display: flex;
   align-items: center;
   padding: 0;
+  margin: 0;
 }
 
 .nav_item:not(:last-child) {
